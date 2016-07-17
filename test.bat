@@ -1,0 +1,1 @@
+..\curl -XPOST -F file=@C:\Users\Emerson\Documents\TesteProgramacao\matchprod\result.txt https://challenge-check.sortable.com/validate
